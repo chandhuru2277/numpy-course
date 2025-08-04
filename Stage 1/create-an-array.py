@@ -11,5 +11,5 @@ print("type: ", type(np_a))  # type:  <class 'numpy.ndarray'>
 b = [11, 22, "33", 44, "55"]
 np_b = np.array(b)
 
-print("values: ", np_b)  # values:  ['11' '22' '33' '44' '55']
+print("values: ", np_b)  # values:  ['11' '22' '33' '44' '55'] if suppose used bool give number data type values
 print("type: ", type(np_b))  # type:  <class 'numpy.ndarray'>
